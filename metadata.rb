@@ -1,6 +1,6 @@
 name             'jmcgarr-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Mike McGarr'
+maintainer_email 'it@somewhere.com'
 license          'All rights reserved'
 description      'Installs/Configures jmcgarr-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
